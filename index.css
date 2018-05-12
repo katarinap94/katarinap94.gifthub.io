@@ -16,6 +16,21 @@ var loading_page_settings = {"loadingScreen":"1","backgroundColor":"#111","foreg
   })(document);
 </script>
 
+<body class="home">
+	
+		<!-- wrapper -->
+		<div class="wrapper" id="wrapper">
+
+			<!-- header -->
+			<header class="header clear" role="banner">	
+				<div class="logo">
+						<h1><a href="http://taostudiodesign.com">Taostudio</a> </h1>
+						 <button class="lines-button arrow arrow-up" type="button" role="button" aria-label="Toggle Navigation">
+							  <span class="lines"></span>
+						 </button>
+				</div>
+
+
 
 </style>
 </head>
