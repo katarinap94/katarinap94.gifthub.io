@@ -3,3 +3,6 @@ body {
   background-color: #292929;
 }
 
+ul {
+   list-style: none;
+}
